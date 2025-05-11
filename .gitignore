@@ -1,0 +1,7 @@
+~*
+_*
+*.step
+*.stl
+production
+*backups
+*cache
